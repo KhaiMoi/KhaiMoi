@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**KhaiMoi/KhaiMoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there, I'm Quang Khải! 👋 from VietNam.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a System Architect with a passion for exploring new technologies and tools. I enjoy working on Technology stack and I’m constantly learning new technologies. Here are a few things I love to do:
+
+- 👨‍💻 Coding
+- 🌱 Learning about new tech
+- 📚 Sharing knowledge
+💻 larvel | 🖱️ JavaScript | ☁️ AWS | 🔧 Git
+
+## My GitHub Stats
+![MD. QuangKhai Uddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubumithu&show_icons=true&theme=radical)
+
+
