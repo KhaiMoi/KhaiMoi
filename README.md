@@ -6,7 +6,7 @@ I'm a System Architect with a passion for exploring new technologies and tools. 
 - 👨‍💻 Coding
 - 🌱 Learning about new tech
 - 📚 Sharing knowledge
-- 💻 larvel | 🖱️ JavaScript | ☁️ MongoDB | 🔧 Git
+- 💻 larvel | 🖱️ JavaScript, VueJS | ☁️ MySQL | 🔧 Git
 
 ## My GitHub Stats
 ![MD. QuangKhai Uddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubumithu&show_icons=true&theme=radical)
